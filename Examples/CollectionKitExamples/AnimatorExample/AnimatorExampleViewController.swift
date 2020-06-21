@@ -88,5 +88,6 @@ class AnimatorExampleViewController: CollectionViewController {
         providerViewProvider
       ]
     )
+    FadeAnimator()
   }
 }
